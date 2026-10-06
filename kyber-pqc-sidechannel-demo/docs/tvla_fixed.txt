@@ -1,0 +1,12 @@
+=======================================================
+  TVLA (Fixed vs Random) Assessment Result
+=======================================================
+  Fixed group  : n=5000, mean=537.9 cycles
+  Random group : n=5000, mean=575.3 cycles
+  t-statistic  : -3.8824
+  p-value      : 1.0446e-04
+-------------------------------------------------------
+  [OK] |t| = 3.88 <= 4.5
+  >>> No leakage detected <<<
+=======================================================
+[*] Plot saved to docs/tvla_result.png

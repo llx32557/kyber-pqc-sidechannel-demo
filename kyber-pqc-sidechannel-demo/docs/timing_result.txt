@@ -1,0 +1,9 @@
+Loading datasets/timing_data.csv...
+========================================
+Mean High: 567.13 cycles
+Mean Low:  519.31 cycles
+T-statistic: 4.3198
+P-value: 1.5652e-05
+>>> Result: TIMING LEAKAGE DETECTED! (p < 0.05)
+========================================
+Plot saved to docs/leakage_vulnerable.png
